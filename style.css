@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(0, 0, 0);
+    color: rgb(98, 0, 218);
+}
+.heading{
+    width: 50%;
+font-size: 30px;
+}
+#Camera,#Picture{
+    width:350px;
+    height:300px;
+    border: 2px solid blue;
+}
+
